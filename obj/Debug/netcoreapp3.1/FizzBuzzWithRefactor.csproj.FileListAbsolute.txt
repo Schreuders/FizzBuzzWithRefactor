@@ -1,0 +1,12 @@
+/Users/Kim/Dev-VSC/FizzBuzzWithRefactor/bin/Debug/netcoreapp3.1/FizzBuzzWithRefactor.deps.json
+/Users/Kim/Dev-VSC/FizzBuzzWithRefactor/bin/Debug/netcoreapp3.1/FizzBuzzWithRefactor.runtimeconfig.json
+/Users/Kim/Dev-VSC/FizzBuzzWithRefactor/bin/Debug/netcoreapp3.1/FizzBuzzWithRefactor.runtimeconfig.dev.json
+/Users/Kim/Dev-VSC/FizzBuzzWithRefactor/bin/Debug/netcoreapp3.1/FizzBuzzWithRefactor.dll
+/Users/Kim/Dev-VSC/FizzBuzzWithRefactor/bin/Debug/netcoreapp3.1/FizzBuzzWithRefactor.pdb
+/Users/Kim/Dev-VSC/FizzBuzzWithRefactor/obj/Debug/netcoreapp3.1/FizzBuzzWithRefactor.csprojAssemblyReference.cache
+/Users/Kim/Dev-VSC/FizzBuzzWithRefactor/obj/Debug/netcoreapp3.1/FizzBuzzWithRefactor.csproj.CoreCompileInputs.cache
+/Users/Kim/Dev-VSC/FizzBuzzWithRefactor/obj/Debug/netcoreapp3.1/FizzBuzzWithRefactor.AssemblyInfoInputs.cache
+/Users/Kim/Dev-VSC/FizzBuzzWithRefactor/obj/Debug/netcoreapp3.1/FizzBuzzWithRefactor.AssemblyInfo.cs
+/Users/Kim/Dev-VSC/FizzBuzzWithRefactor/obj/Debug/netcoreapp3.1/FizzBuzzWithRefactor.dll
+/Users/Kim/Dev-VSC/FizzBuzzWithRefactor/obj/Debug/netcoreapp3.1/FizzBuzzWithRefactor.pdb
+/Users/Kim/Dev-VSC/FizzBuzzWithRefactor/obj/Debug/netcoreapp3.1/FizzBuzzWithRefactor.genruntimeconfig.cache
